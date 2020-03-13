@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`shallow rendering of component 1`] = `
+Array [
+  <User
+    key="255"
+    user={
+      Object {
+        "email": "malcolm.kente@remrkabledev.com",
+        "id": 255,
+        "name": "Malcolm Kente",
+      }
+    }
+  />,
+  <User
+    key="80"
+    user={
+      Object {
+        "email": "k.dot@compton.com",
+        "id": 80,
+        "name": "Kendrick Lamar",
+      }
+    }
+  />,
+  <User
+    key="444"
+    user={
+      Object {
+        "email": "hova@rocnation.com",
+        "id": 444,
+        "name": "Shawn Carter",
+      }
+    }
+  />,
+]
+`;

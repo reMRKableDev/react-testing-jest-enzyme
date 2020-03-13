@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`shallow rendering App component 1`] = `
+<div
+  className="app"
+>
+  <header
+    className="header"
+  >
+    <Header
+      name="Malcolm"
+    />
+  </header>
+  <h2>
+    Retrieving list from API
+  </h2>
+  <UserList
+    retrievedUsers={Array []}
+  />
+</div>
+`;

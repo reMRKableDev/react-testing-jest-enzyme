@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`shallow renders component with object 1`] = `
+<article
+  className="user_container"
+>
+  <div
+    className="user"
+  >
+    <h2>
+      User # 
+      255
+    </h2>
+    <p>
+      <strong>
+        Name:
+      </strong>
+       
+      Malcolm Kente
+    </p>
+    <p>
+      <strong>
+        Email:
+      </strong>
+       
+      malcolm.kente@remrkabledev.com
+    </p>
+  </div>
+</article>
+`;

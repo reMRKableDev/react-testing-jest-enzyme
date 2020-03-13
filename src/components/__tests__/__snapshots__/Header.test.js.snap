@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rendering component 1`] = `
+<h1>
+  Hello stranger!
+</h1>
+`;
+
+exports[`rendering component with name 1`] = `
+<h1>
+  Hello Malcolm!
+</h1>
+`;
+
+exports[`shallow rendering component correctly 1`] = `
+<h1>
+  Hello stranger!
+</h1>
+`;
+
+exports[`shallow rendering correctly component with name 1`] = `
+<h1>
+  Hello 
+  Malcolm
+  !
+</h1>
+`;
