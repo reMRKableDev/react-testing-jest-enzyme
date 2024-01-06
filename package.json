@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "enzyme-to-json": "3.6.1"
+    "enzyme-to-json": "3.6.2"
   }
 }
